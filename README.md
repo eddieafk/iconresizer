@@ -1,6 +1,6 @@
 # INFORMATION
 
-- This mini icon-resizer was made with the API provided in the .GIT repo: `[https://github.com/nothings/stb](https://github.com/nothings/stb)`.
+- This mini icon-resizer was made with the API provided in the .GIT repo: [https://github.com/nothings/stb](https://github.com/nothings/stb).
 - The header files does not belong to this project and was taken from the repository mentioned above, and all the the right are copyrighted.
 
 - Only (experimented) supports IMAGE/: PNG, JPG, JPEG.
