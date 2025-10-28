@@ -4,6 +4,7 @@
 - The header files does not belong to this project and was taken from the repository mentioned above, and all the the right are copyrighted.
 
 - Only (experimented) supports IMAGE/: PNG, JPG, JPEG.
+- It will create sizes: 16, 22, 24, 32, 48, 64, 128, 256, 512, if any more size needed can just adjust the `std::vector<int> sizes` array in `icon_resizer.cpp`
 
 # COMPILE
 
